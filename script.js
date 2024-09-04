@@ -86,4 +86,4 @@ yesButton.addEventListener("click", () => {
 });
 
 // Hide the popup initially
-popup.style.display = "none";
+popup.style.display = "active";
